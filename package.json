@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.45",
+    "tailwindcss": "^3.4.10"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.2.4",
+    "@chakra-ui/react": "^3.0.1",
+    "@emotion/react": "^11.13.3",
+    "@heroicons/react": "^2.1.5",
+    "bcrypt": "^5.1.1",
+    "framer-motion": "^11.11.9",
+    "nodemailer": "^6.9.15",
+    "react-toastify": "^11.0.3",
+    "react-typed": "^2.0.12",
+    "sentiment": "^5.0.2",
+    "typed.js": "^2.1.0"
+  }
+}
