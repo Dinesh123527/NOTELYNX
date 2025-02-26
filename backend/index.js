@@ -755,8 +755,7 @@ app.get("/search-notes", authenticateToken, async (req, res) => {
   }
 });
 
-
-const run = app.listen(8001);
+const run = app.listen(8004);
 
 const port = process.env.PORT || run;
 
